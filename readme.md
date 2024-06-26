@@ -4,7 +4,7 @@ If you're working on your local machine, make sure to [install Pandas](https://p
 
 If you already have Pandas installed, you may want to [update Pandas](https://www.altcademy.com/blog/how-to-update-pandas/).
 
-You can also work on Google Colab (in the cloud). These are the links to work on Google Colab:
+You can also work on Google Colab (in the cloud), where you won't have to install Pandas. These are the links to work on Google Colab:
 - [pandas.ipynb](https://colab.research.google.com/github/nuitrcs/pandas_intro/blob/main/pandas.ipynb)
   - [pandas-Answers.ipynb](https://colab.research.google.com/github/nuitrcs/pandas_intro/blob/main/pandas-Answers.ipynb)
 - [pandas2.ipynb](https://colab.research.google.com/github/nuitrcs/pandas_intro/blob/main/pandas2.ipynb)
